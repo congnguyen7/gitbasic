@@ -10,4 +10,22 @@ Nội dung:
         git diff
 Tạo tài khoản github
 
-/git_day2
+/git_day2'
+	git clone https://github.com/congnguyen7/gitbasic.git
+	cd gitbasic/
+	echo "gitbasic " >> README.md
+	cat README.md
+	git add .
+	git status
+	git commit -m "first commit"
+	git branch -M main
+	git push origin main
+	
+	git config --global user.name "congnguyen7"
+	git config --global user.email "congnguyen@bkitsolution.com"
+	cat ~/.gitconfig
+	git config --list
+
+	
+
+
