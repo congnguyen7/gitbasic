@@ -25,6 +25,8 @@ Tạo tài khoản github
 	git config --global user.email "congnguyen@bkitsolution.com"
 	cat ~/.gitconfig
 	git config --list
+	
+	
 
 	
 
