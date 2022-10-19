@@ -34,7 +34,13 @@ Tạo tài khoản github
 
 /git_day3
 	git commit –amend được sử dụng khi chúng ta muốn sửa đổi commit cuối cùng. 
-	https://bom.so/58bVZ4 
+		https://bom.so/58bVZ4 
+	gitignore
+		build/ :Bỏ qua mọi tập tin trong các thư mục có tên là build
+		*.log   :yêu cầu Git bỏ qua tất cả các tập tin logs
+		"!lib.a"  :không bỏ qua tập tin lib.a
+		/TODO :Chỉ bỏ qua file TODO ở thư mục hiện tại, còn ở các thư mục con thì không
+	
 
 	
 
