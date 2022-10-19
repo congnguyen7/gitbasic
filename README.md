@@ -46,9 +46,4 @@ Tạo tài khoản github
 	gitk : quan sát trực quan lịch sử commit nội dung thay đổi các commit 
 	BRANCH : thêm, xóa, chuyển branch
 	merge
-	
-
-	
-
-
-test1
+s
