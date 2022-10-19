@@ -25,19 +25,12 @@ Tạo tài khoản github
 	git commit -m "first commit"
 	git branch -M main
 	git push origin main
-<<<<<<< HEAD
-	
+
 	git config --global user.name "congnguyen7"
 	git config --global user.email "congnguyen@bkitsolution.com"
 	cat ~/.gitconfig
 	git config --list
-	
-<<<<<<< HEAD
-	
-=======
-	amend
->>>>>>> 506bf71 (update)
-=======
+
 
 /git_day3
 	git commit –amend được sử dụng khi chúng ta muốn sửa đổi commit cuối cùng. 
