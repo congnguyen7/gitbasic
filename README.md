@@ -40,6 +40,12 @@ Tạo tài khoản github
 		*.log   :yêu cầu Git bỏ qua tất cả các tập tin logs
 		"!lib.a"  :không bỏ qua tập tin lib.a
 		/TODO :Chỉ bỏ qua file TODO ở thư mục hiện tại, còn ở các thư mục con thì không
+	git log
+	git log --online
+	git show
+	gitk : quan sát trực quan lịch sử commit nội dung thay đổi các commit 
+	BRANCH : thêm, xóa, chuyển branch
+	merge
 	
 
 	
