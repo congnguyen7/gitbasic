@@ -42,7 +42,6 @@ Tạo tài khoản github
 /git_day3
 	git commit –amend được sử dụng khi chúng ta muốn sửa đổi commit cuối cùng. 
 	https://bom.so/58bVZ4 
->>>>>>> 3c0f59f (update README file)
 
 	
 
