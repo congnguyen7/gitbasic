@@ -26,7 +26,11 @@ Tạo tài khoản github
 	cat ~/.gitconfig
 	git config --list
 	
+<<<<<<< HEAD
 	
+=======
+	amend
+>>>>>>> 506bf71 (update)
 
 	
 
